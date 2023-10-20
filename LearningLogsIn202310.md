@@ -1,0 +1,63 @@
+# 2023年10月算法和数据结构学习日志
+
+## 10月1日 周日
+
+### 周赛
+
+参加力扣第365场周赛，被打爆啦！！！菜菜菜！！！
+
+## 10月3日 周二
+
+### 下午，学习思考记录
+
+14：40开始思考第365场周赛的编程题
+
+1. `[2875. 无限数组的最短子数组](https://leetcode.cn/problems/minimum-size-subarray-in-infinite-array/)`,第365场周赛的t3，很具有思维灵性的一道题，尽管看了题解和视频但还是没弄懂，决定先暂时放下
+
+## 10月5日 周四
+
+### 早上，思考记录
+
+1. `[2730. 找到最长的半重复子字符串](https://leetcode.cn/problems/find-the-longest-semi-repetitive-substring/)`，**双指针**，解决了这道题
+2. `[2698. 求一个整数的惩罚数](https://leetcode.cn/problems/find-the-punishment-number-of-an-integer/)`**回溯型枚举**，解决了这道题
+3. `[207. 课程表](https://leetcode.cn/problems/course-schedule/)`,认为自己的逻辑没有错误，代码没有错误，反复检查还是没有发现错误，但是运行结果却是错的，于是认定是力扣平台的编译器错误（当然，非常有可能过几天发现错的还是自己）
+
+## 下班
+
+11：30下班！！！干饭！！！
+
+## 中午，下午，学习思考记录
+
+12：30开始学习与思考
+
+1. 读labuladong算法学习网站的文章`环检测及拓扑排序算法`,这篇文章**未读懂**，未能get到作者的思路
+2. 读csdn博客`拓扑排序(http://t.csdnimg.cn/RrZk5)`,通过这篇博客理解了**什么是拓扑排序**
+3. 读csdn博客`拓扑排序（Topological Sorting）(http://t.csdnimg.cn/Cu31q)`
+4. 拓扑排序（Topological Sorting）是一个**有向无环图**（DAG, Directed Acyclic Graph）的所有**顶点的线性序列**。且该序列必须满足下面两个条件：
+
+- 每个顶点出现且只出现一次。
+- 若存在一条从顶点 A 到顶点 B 的路径，那么在序列中顶点 A 出现在顶点 B 的前面。
+- 有向无环图（DAG）才有拓扑排序，非DAG图没有拓扑排序一说。
+
+## 下班
+
+13：30下班！！！回寝室学习围棋！！！
+
+## 10月6日 周五
+
+### 早上学习记录
+
+1. `[207. 课程表](https://leetcode.cn/problems/course-schedule/)`、`[210. 课程表 II](https://leetcode.cn/problems/course-schedule-ii/)`知道了如何**用BFS实现拓扑排序**，但是不知道Bug出现在哪里，就是有用例过不了，也许是眼睛没吃油，也许是大脑宕机了，总之先放下吧，当**眼睛没吃油or大脑宕机**的时候，重点领悟算法的总体思想！！！在干饭前，把代码发到了刷题群里，群友帮助找到了Bug！！！`Arrays.fill(map,new HashSet<Integer>());`会装入同一个Set对象！！！
+2. `[851. 喧闹和富有](https://leetcode.cn/problems/loud-and-rich/)`,如何将具体问题抽象为**拓扑排序**，思考**节点**和**有向边的方向**，又又又**不知道Bug在哪**，菜菜菜！！！
+
+### 中午，下午，学习记录
+
+1. 根据群友的提醒，找到了自己遇到的Bug，解决了早上遗留的问题
+2. `[913. 猫和老鼠](https://leetcode.cn/problems/cat-and-mouse/)`,近20min没思路，决定看题解，看题解是DP，这不是今天的学习主线，于是决定先跳过~~菜菜菜~~
+3. `[LCR 114. 火星词典](https://leetcode.cn/problems/Jf1JuT/)`题目意思未弄懂，先跳过
+4. 决定读知识星球的文章
+
+### 下班
+
+15：00下班
+
