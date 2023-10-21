@@ -61,3 +61,14 @@
 
 15：00下班
 
+## 10月7日-10月20日
+
+由于一时手贱用shift+delete永久删除了这段时间的日志记录。所以。。。。。。~~绝对不是俺想销毁我是蒟蒻的证据~~
+
+## 10月21日
+
+15：00左右开始思考编程题
+
+1. `[2316. 统计无向图中无法互相到达点对数](https://leetcode.cn/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/)`，思路并不复杂，只是有些蒟蒻一看到图的题就慌得一匹，俺不说是谁，谁心里清楚，菜菜菜！！！
+2. `[2606. 找到最大开销的子字符串](https://leetcode.cn/problems/find-the-substring-with-maximum-cost/)`一道基础动态规划题，独立解决了这道题，欸嘿，欸嘿！！！
+3. `[2707. 字符串中的额外字符](https://leetcode.cn/problems/extra-characters-in-a-string/)`，一道基础动态规划题，但是自己不知道如何简洁的状态定义。看题解后完成了这道题！！！
