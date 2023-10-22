@@ -72,3 +72,12 @@
 1. `[2316. 统计无向图中无法互相到达点对数](https://leetcode.cn/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/)`，思路并不复杂，只是有些蒟蒻一看到图的题就慌得一匹，俺不说是谁，谁心里清楚，菜菜菜！！！
 2. `[2606. 找到最大开销的子字符串](https://leetcode.cn/problems/find-the-substring-with-maximum-cost/)`一道基础动态规划题，独立解决了这道题，欸嘿，欸嘿！！！
 3. `[2707. 字符串中的额外字符](https://leetcode.cn/problems/extra-characters-in-a-string/)`，一道基础动态规划题，但是自己不知道如何简洁的状态定义。看题解后完成了这道题！！！
+
+## 10月22日 周日
+
+参加**力扣第368场周赛**，记录下t3(`[100097. 合法分组的最少组数](https://leetcode.cn/problems/minimum-number-of-groups-to-create-a-valid-assignment/)`)**弯弯绕绕**的过程：
+
+1. 初看觉得是贪心，但是不知道如何贪心
+2. 再看觉得可以二分，但是最后发现应该不可以二分，在这条思路上花费了大量的时间
+3. 最后尝试转二分为暴力，发现自己的二分思路有很多逻辑上的BUG
+4. 菜菜菜！！！菜菜菜！！！
