@@ -81,3 +81,8 @@
 2. 再看觉得可以二分，但是最后发现应该不可以二分，在这条思路上花费了大量的时间
 3. 最后尝试转二分为暴力，发现自己的二分思路有很多逻辑上的BUG
 4. 菜菜菜！！！菜菜菜！！！
+
+## 10月23日 周一
+
+1. `[2910. 合法分组的最少组数](https://leetcode.cn/problems/minimum-number-of-groups-to-create-a-valid-assignment/)`力扣第368场周赛t3,思路：`贪心`，唉，唉，唉，😔，😔，😔，生活不易，菜鸡叹气！！！
+2. `[2911. 得到 K 个半回文串的最少修改次数](https://leetcode.cn/problems/minimum-changes-to-make-k-semi-palindromes/)`力扣第368场周赛t4,思路：`DP`，未能理解此题的状态转移和状态定义，决定先放下这道题！！！菜菜菜！！！
