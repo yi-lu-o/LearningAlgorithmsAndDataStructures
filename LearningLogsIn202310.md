@@ -86,3 +86,8 @@
 
 1. `[2910. 合法分组的最少组数](https://leetcode.cn/problems/minimum-number-of-groups-to-create-a-valid-assignment/)`力扣第368场周赛t3,思路：`贪心`，唉，唉，唉，😔，😔，😔，生活不易，菜鸡叹气！！！
 2. `[2911. 得到 K 个半回文串的最少修改次数](https://leetcode.cn/problems/minimum-changes-to-make-k-semi-palindromes/)`力扣第368场周赛t4,思路：`DP`，未能理解此题的状态转移和状态定义，决定先放下这道题！！！菜菜菜！！！
+
+## 10月24日 周二
+
+1. `[1155. 掷骰子等于目标和的方法数](https://leetcode.cn/problems/number-of-dice-rolls-with-target-sum/)`,力扣每日一题，记录下此题弯弯绕绕的过程：先尝试**暴力DFS超时**了，再尝试**记忆化搜索还是超时**，决定看题解，看了题解之后发现自己写的记忆化搜索只需要修改一行代码就可以了，通过阅读题解对于递归的理解加深了
+2. `[1155. 掷骰子等于目标和的方法数](https://leetcode.cn/problems/number-of-dice-rolls-with-target-sum/)`,读完题解之后，按照题解的思路重构了代码，体会到了**递归到记忆化搜索到递推(DP)**的过程
