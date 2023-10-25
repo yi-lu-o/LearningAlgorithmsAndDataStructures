@@ -91,3 +91,7 @@
 
 1. `[1155. 掷骰子等于目标和的方法数](https://leetcode.cn/problems/number-of-dice-rolls-with-target-sum/)`,力扣每日一题，记录下此题弯弯绕绕的过程：先尝试**暴力DFS超时**了，再尝试**记忆化搜索还是超时**，决定看题解，看了题解之后发现自己写的记忆化搜索只需要修改一行代码就可以了，通过阅读题解对于递归的理解加深了
 2. `[1155. 掷骰子等于目标和的方法数](https://leetcode.cn/problems/number-of-dice-rolls-with-target-sum/)`,读完题解之后，按照题解的思路重构了代码，体会到了**递归到记忆化搜索到递推(DP)**的过程
+
+## 10月25日 周三
+
+1. `[2698. 求一个整数的惩罚数](https://leetcode.cn/problems/find-the-punishment-number-of-an-integer/)`力扣每日一题 思路：对于每一个以s[i]开头的子字符串，枚举这个子字符串的结束位置j(1<=j<=n),计算substring(i,j)的值即可(要学会清晰的表达自己的枚举方案)
