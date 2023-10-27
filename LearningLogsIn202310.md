@@ -95,3 +95,13 @@
 ## 10月25日 周三
 
 1. `[2698. 求一个整数的惩罚数](https://leetcode.cn/problems/find-the-punishment-number-of-an-integer/)`力扣每日一题 思路：对于每一个以s[i]开头的子字符串，枚举这个子字符串的结束位置j(1<=j<=n),计算substring(i,j)的值即可(要学会清晰的表达自己的枚举方案)
+
+## 10月26日 周四
+
+日常思考力扣每日一题
+
+## 10月27日 周五
+
+1. `[2585. 获得分数的方法数](https://leetcode.cn/problems/number-of-ways-to-earn-points/)`,通过：`暴搜+记忆化优化`AC了这道题，记忆化的精是**避免大量重复计算**，剪枝的精髓是**提前去掉不可行方案**
+2. `[1465. 切割后面积最大的蛋糕](https://leetcode.cn/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)`思路：`数学+贪心`,解决了这道题
+3. `[2547. 拆分数组的最小代价](https://leetcode.cn/problems/minimum-cost-to-split-an-array/)`尝试用`暴搜+记忆化`依然超时，还有可以优化的部分，决定先暂时放下这道题
