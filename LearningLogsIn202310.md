@@ -105,3 +105,16 @@
 1. `[2585. 获得分数的方法数](https://leetcode.cn/problems/number-of-ways-to-earn-points/)`,通过：`暴搜+记忆化优化`AC了这道题，记忆化的精是**避免大量重复计算**，剪枝的精髓是**提前去掉不可行方案**
 2. `[1465. 切割后面积最大的蛋糕](https://leetcode.cn/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)`思路：`数学+贪心`,解决了这道题
 3. `[2547. 拆分数组的最小代价](https://leetcode.cn/problems/minimum-cost-to-split-an-array/)`尝试用`暴搜+记忆化`依然超时，还有可以优化的部分，决定先暂时放下这道题
+
+## 10月29日 周日
+
+1. `[274. H 指数](https://leetcode.cn/problems/h-index/)`力扣每日一题，自己的思路：`排序+双指针`，题解的思路：`排序+二分`，经过对比，发现自己的双指针思路也是可行的。
+
+### 参加第369场力扣周赛
+
+发现自己t2想得太复杂了,但最后能够理出正确的清晰的思路还是OK的，慢慢的养成了打力扣周赛的习惯
+
+## 10月30日 周一
+
+1. `[275. H 指数 II](https://leetcode.cn/problems/h-index-ii/)`力扣每日一题，思路：`二分`，学会用文字的形式使自己的思路更加清晰
+
