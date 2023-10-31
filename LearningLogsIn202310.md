@@ -118,3 +118,6 @@
 
 1. `[275. H 指数 II](https://leetcode.cn/problems/h-index-ii/)`力扣每日一题，思路：`二分`，学会用文字的形式使自己的思路更加清晰
 
+## 10月31日 周二
+
+1. `[2003. 每棵子树内缺失的最小基因值](https://leetcode.cn/problems/smallest-missing-genetic-value-in-each-subtree/)`力扣每日一题，是DFS的一道思维好题，很有启迪意义
