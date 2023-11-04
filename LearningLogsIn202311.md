@@ -11,3 +11,8 @@
 ## 11月3日 周五
 
 1. `[117. 填充每个节点的下一个右侧节点指针 II](https://leetcode.cn/problems/populating-next-right-pointers-in-each-node-ii/)`力扣每日一题，用`BFS`层序遍历的方式解决了这道题
+
+## 11月4日 周六
+
+1. `[421. 数组中两个数的最大异或值](https://leetcode.cn/problems/maximum-xor-of-two-numbers-in-an-array/)`,力扣每日一题，思路：`位运算+思维`，大致理解了这道题的思路，但是对于某些代码细节没有理解，对着题解的代码敲了一遍，可以先放下这道题了（**tips:**`Integer.numberOfLeadingZeros(i)`方法:返回无符号整数i的最高非0位前面的0的个数，包括符号位在内；如果i为负数，这个方法将会返回0，符号位为1。**egs:**比如说，10的二进制表示为 0000 0000 0000 0000 0000 0000 0000 1010
+     java的整型长度为32位。那么这个方法返回的就是28)
