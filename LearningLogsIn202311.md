@@ -24,3 +24,7 @@
 1. `[100116. 找到冠军 II](https://leetcode.cn/problems/find-champion-ii/)`周赛t2,一道看似复杂实则简单的题，但是有些Muggle就是往复杂方向想，没错，就是俺
 2. `[100118. 在树上执行操作以后得到的最大分数](https://leetcode.cn/problems/maximum-score-after-applying-operations-on-a-tree/)`周赛t3,思路：`树形DP`，自己没有解决这道题，决定先暂时放下
 3. `[187. 重复的DNA序列](https://leetcode.cn/problems/repeated-dna-sequences/)`力扣每日一题，结合样例弄懂题意后发现思路并不困难，通过`集合`去重就可以解决这道题
+
+## 11月6日 周一
+
+1. `[318. 最大单词长度乘积](https://leetcode.cn/problems/maximum-product-of-word-lengths/)`力扣每日一题，思路：`位运算`，很巧妙的思路，要多学习大佬的思路！！！
