@@ -28,3 +28,10 @@
 ## 11月6日 周一
 
 1. `[318. 最大单词长度乘积](https://leetcode.cn/problems/maximum-product-of-word-lengths/)`力扣每日一题，思路：`位运算`，很巧妙的思路，要多学习大佬的思路！！！
+
+## 11月7日 周二
+
+1. `[2925. 在树上执行操作以后得到的最大分数](https://leetcode.cn/problems/maximum-score-after-applying-operations-on-a-tree/)`力扣第370场周赛t3,对于自己具有一定启发意义的题，看了题解后解决了这道题，要慢慢的体会`分解子问题`的思维方式
+2. `[面试题 08.07. 无重复字符串的排列组合](https://leetcode.cn/problems/permutation-i-lcci/)`思路：`排列型枚举`，要培养自己的抽象能力，能否从具体问题看出排列枚举的本质呢
+3. `[面试题 02.02. 返回倒数第 k 个节点](https://leetcode.cn/problems/kth-node-from-end-of-list-lcci/)`学会用文字描述自己的思路，学会用文字表达自己，这是一项值得培养的能力
+4. `[面试题 05.02. 二进制数转字符串](https://leetcode.cn/problems/binary-number-to-string-lcci/)`一道数学编程题，对于证明部分没有理解思路，决定先暂时放下这道题
