@@ -49,3 +49,20 @@
 4. `[1448. 统计二叉树中好节点的数目](https://leetcode.cn/problems/count-good-nodes-in-binary-tree/)`自我感觉此题的思路非常简单，但是却wa了，找了半天没有发现Bug，可能是眼睛没有吃油，决定先放下！！！下班！！！**后续：**晚上，再次看这道题，没有修改任何代码，AC了，说明**力扣官方编译器也有出错的时候**
 5. `100. 相同的树 https://leetcode.cn/problems/same-tree/` `101. 对称二叉树 https://leetcode.cn/problems/symmetric-tree/`再次思考这两道去年写过的题，发现自己分析问题的能力有了一定的提升
 6. `[110. 平衡二叉树](https://leetcode.cn/problems/balanced-binary-tree/)`再次写这道题，发现自己又又又写屎山啦！！！但是没有被之前做过这道题的印象所束缚！！！看了题解后，发现题解区的思路与代码更加简洁，要多向世界，多向他人学习！！！
+
+## 11月10日 周五
+
+1. `[2300. 咒语和药水的成功对数](https://leetcode.cn/problems/successful-pairs-of-spells-and-potions/)`力扣每日一题，思路：`二分`，独立解决了这道题！！！
+2. `226. 翻转二叉树 https://leetcode.cn/problems/invert-binary-tree/` `1026. 节点与其祖先之间的最大差值 https://leetcode.cn/problems/maximum-difference-between-node-and-ancestor/`对于这两道题，自己采用的都是`遍历二叉树`的思路
+3. `[1080. 根到叶路径上的不足节点](https://leetcode.cn/problems/insufficient-nodes-in-root-to-leaf-paths/)`一道结合了`思维+二叉树遍历`的好题，又被大佬的思路秀翻啦！！！
+4. `[1110. 删点成林](https://leetcode.cn/problems/delete-nodes-and-return-forest/)`思路：`二叉树遍历+模拟`，要学会根据具体问题具体分析呀！！！
+4. `[98. 验证二叉搜索树](https://leetcode.cn/problems/validate-binary-search-tree/)`三刷此题，思路变得简洁了！！！
+4. `[1373. 二叉搜索子树的最大键值和](https://leetcode.cn/problems/maximum-sum-bst-in-binary-tree/)`此道题，自己认为的思路是：`平衡二叉树的性质+二叉树的遍历`,但是自己越改越乱，同时，图书馆快要关门了，决定明天再想！！！下班！！！
+
+## 11月11日 周六
+
+1. `[765. 情侣牵手](https://leetcode.cn/problems/couples-holding-hands/)`，力扣每日一题，思路：`并查集或贪心`，这并不是目前自己学习的重点，所以大概了解思路后，决定先放下这道题
+
+2. `[1373. 二叉搜索子树的最大键值和](https://leetcode.cn/problems/maximum-sum-bst-in-binary-tree/)`,再次思考昨天遗留的问题，依然没有思路，决定先放下这道题
+
+   
