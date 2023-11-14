@@ -85,4 +85,7 @@
 
 1. `[307. 区域和检索 - 数组可修改](https://leetcode.cn/problems/range-sum-query-mutable/)`,思路：`树状数组`,初看以为是前缀和与差分，但是没有过于纠结于自己会不会前缀和与差分，并没有将自己思路卡壳的原因归咎于自己没有学会前缀和与差分，而是此题不适合用前缀和与差分，看题解后发现是`树状数组`，由于并不在自己最近的学习计划内，所以决定先放下这道题
 
-   
+
+## 11月14日 周二
+
+1. `[1334. 阈值距离内邻居最少的城市](https://leetcode.cn/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/)`,力扣每日一题，思路：`Floyd 最短路`,由于不在最近的学习计划中,所以决定先放下这道题
