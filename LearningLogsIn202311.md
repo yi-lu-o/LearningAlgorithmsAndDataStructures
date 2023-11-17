@@ -89,3 +89,15 @@
 ## 11月14日 周二
 
 1. `[1334. 阈值距离内邻居最少的城市](https://leetcode.cn/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/)`,力扣每日一题，思路：`Floyd 最短路`,由于不在最近的学习计划中,所以决定先放下这道题
+
+## 11月15日 周三
+
+1. 日常力扣每日一题，具体内容略
+
+## 11月16日 周四
+
+1. 日常力扣每日一题，具体内容略
+
+## 11月17日 周五
+
+1. `[2736. 最大和查询](https://leetcode.cn/problems/maximum-sum-queries/)`题解区思路：`排序+单调栈+二分` 或者`树状数组`,由于不在自己最近的学习计划内~~其实是因为自己菜~~决定先放下这道每日一题~~C/V大法！！！该白嫖的每日打卡积分还是要嫖滴！！！~~
