@@ -119,3 +119,11 @@
 ### 日常
 
 1. `[689. 三个无重叠子数组的最大和](https://leetcode.cn/problems/maximum-sum-of-3-non-overlapping-subarrays/)`,力扣每日一题，猜测的思路是：`DP`，题解区的思路是：`前缀和+序列DP`,由于笔记本电脑没电啦！！！~~其实是菜鸡的畏难心理~~决定先放下这道题
+
+## 11月20日 周一
+
+日常力扣每日一题，详情略。
+
+## 11月21日 周二
+
+1. `[2216. 美化数组的最少删除数](https://leetcode.cn/problems/minimum-deletions-to-make-array-beautiful/)`,力扣每日一题，思路：`思维+模拟`，但是有些人因为有熟人在旁边而紧张得一匹！！！太菜啦！！！太菜啦！！！
