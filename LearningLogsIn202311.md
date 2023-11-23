@@ -131,3 +131,7 @@
 ## 11月22日 周三
 
 1. `[2304. 网格中的最小路径代价](https://leetcode.cn/problems/minimum-path-cost-in-a-grid/)`,力扣每日一题，跟室友吹牛逼说`有手就行`,结果一吹完牛逼就感到紧张和压力山大，导致思路弯弯绕绕,又觉得是DFS，又觉得是BFS,不过最后想到了较好的解法：`动态规划`，菜菜菜！！！
+
+## 11月23日 周四
+
+1. `[1410. HTML 实体解析器](https://leetcode.cn/problems/html-entity-parser/)`,力扣每日一题，思路：`大模拟+遍历`,wa了两发，菜菜菜！！！
