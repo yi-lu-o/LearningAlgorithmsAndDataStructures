@@ -135,3 +135,9 @@
 ## 11月23日 周四
 
 1. `[1410. HTML 实体解析器](https://leetcode.cn/problems/html-entity-parser/)`,力扣每日一题，思路：`大模拟+遍历`,wa了两发，菜菜菜！！！
+
+2. `[1123. 最深叶节点的最近公共祖先](https://leetcode.cn/problems/lowest-common-ancestor-of-deepest-leaves/)`,在修修改改写屎山，弯弯绕绕改代码！！！啊啊啊！！！目前并没有一个简洁的思路，决定先放下这道题。
+
+3. `[103. 二叉树的锯齿形层序遍历](https://leetcode.cn/problems/binary-tree-zigzag-level-order-traversal/)`,思路：`二叉树的层序遍历`，噜啦啦！！！有手就行！！！
+
+   
