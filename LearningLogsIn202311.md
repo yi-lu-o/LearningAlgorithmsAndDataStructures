@@ -135,9 +135,16 @@
 ## 11月23日 周四
 
 1. `[1410. HTML 实体解析器](https://leetcode.cn/problems/html-entity-parser/)`,力扣每日一题，思路：`大模拟+遍历`,wa了两发，菜菜菜！！！
-
 2. `[1123. 最深叶节点的最近公共祖先](https://leetcode.cn/problems/lowest-common-ancestor-of-deepest-leaves/)`,在修修改改写屎山，弯弯绕绕改代码！！！啊啊啊！！！目前并没有一个简洁的思路，决定先放下这道题。
-
 3. `[103. 二叉树的锯齿形层序遍历](https://leetcode.cn/problems/binary-tree-zigzag-level-order-traversal/)`,思路：`二叉树的层序遍历`，噜啦啦！！！有手就行！！！
 
-   
+
+## 11月24日 周五
+
+1. `[2824. 统计和小于目标的下标对数目](https://leetcode.cn/problems/count-pairs-whose-sum-is-less-than-target/)`,力扣每日一题，怎么有的人只会暴力呀！！！思路：`排序+双指针`
+2. `[17. 电话号码的字母组合](https://leetcode.cn/problems/letter-combinations-of-a-phone-number/)` `[78. 子集](https://leetcode.cn/problems/subsets/)` `[131. 分割回文串](https://leetcode.cn/problems/palindrome-partitioning/)`重新思考这几道题，发现自己的思路更加简洁了
+3. `[77. 组合](https://leetcode.cn/problems/combinations/)` `[216. 组合总和 III](https://leetcode.cn/problems/combination-sum-iii/)` `[22. 括号生成](https://leetcode.cn/problems/generate-parentheses/)`重新思考这几道题，思路更简洁了，同时发现可以进行`剪枝优化`
+3. `[198. 打家劫舍](https://leetcode.cn/problems/house-robber/)` `[70. 爬楼梯](https://leetcode.cn/problems/climbing-stairs/)` `[746. 使用最小花费爬楼梯](https://leetcode.cn/problems/min-cost-climbing-stairs/)` 重新思考这些基础的动态规划问题，状态定义与状态转移并没有那么困难，要能够找到问题的本质
+3. `[2466. 统计构造好字符串的方案数](https://leetcode.cn/problems/count-ways-to-build-good-strings/)` 自己对于这道题有一定思路，但是代码wa了，发现是自己对于问题没有考虑完整，决定先暂时放下这道题
+
+ 
