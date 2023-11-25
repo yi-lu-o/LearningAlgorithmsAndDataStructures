@@ -147,4 +147,16 @@
 3. `[198. 打家劫舍](https://leetcode.cn/problems/house-robber/)` `[70. 爬楼梯](https://leetcode.cn/problems/climbing-stairs/)` `[746. 使用最小花费爬楼梯](https://leetcode.cn/problems/min-cost-climbing-stairs/)` 重新思考这些基础的动态规划问题，状态定义与状态转移并没有那么困难，要能够找到问题的本质
 3. `[2466. 统计构造好字符串的方案数](https://leetcode.cn/problems/count-ways-to-build-good-strings/)` 自己对于这道题有一定思路，但是代码wa了，发现是自己对于问题没有考虑完整，决定先暂时放下这道题
 
- 
+ ## 11月25日 周六
+
+1. `[1457. 二叉树中的伪回文路径](https://leetcode.cn/problems/pseudo-palindromic-paths-in-a-binary-tree/)`,力扣每日一题，自己的解法是：`二叉树的遍历`，题解的优雅思路是：`递归+位运算`，又又又被秀翻啦！！！又感受到了**位运算震撼**和**递归震撼**！！！
+2. `[2466. 统计构造好字符串的方案数](https://leetcode.cn/problems/count-ways-to-build-good-strings/)`,虽然最后通过修修改改解决了这道题，但是又又又写**屎山**啦！！！
+3. `[213. 打家劫舍 II](https://leetcode.cn/problems/house-robber-ii/)`,重新思考这道题，发现自己的思路变得简洁了
+4. `[494. 目标和](https://leetcode.cn/problems/target-sum/)`,在胡思乱想，无法集中注意力，决定先放下这道题~~其实就是菜~~
+4. `[494. 目标和](https://leetcode.cn/problems/target-sum/)`,干完饭后，整理思路，解决了这道题，是关于`选与不选的背包问题`,自己对于动态规划的理解加深了
+4. `[322. 零钱兑换](https://leetcode.cn/problems/coin-change/)`,重新思考这道题，发现自己的思路变得简洁了
+4. `[2915. 和为目标值的最长子序列的长度](https://leetcode.cn/problems/length-of-the-longest-subsequence-that-sums-to-target/)`,耐心，仔细分析问题后解决了这道题，思路：`动态规划-01背包`
+4. `[1143. 最长公共子序列](https://leetcode.cn/problems/longest-common-subsequence/)`,重新思考这道题，这道题的难点是：`状态定义`，想到状态定义之后，就可以一马平川了
+4. `[72. 编辑距离](https://leetcode.cn/problems/edit-distance/)`，重新思考这道题，这道题的难点是`状态定义和状态转移`，其中状态转移需要用到`等价转换`
+4. `[122. 买卖股票的最佳时机 II](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii/)`，重新思考这道题，这道题的难点是`状态定义`，理解`状态机`的思想
+4. `[516. 最长回文子序列](https://leetcode.cn/problems/longest-palindromic-subsequence/)`,重新思考这道题,此题的难点是`状态定义`，借鉴`区间DP的状态定义思想`
