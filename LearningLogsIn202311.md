@@ -160,3 +160,39 @@
 4. `[72. 编辑距离](https://leetcode.cn/problems/edit-distance/)`，重新思考这道题，这道题的难点是`状态定义和状态转移`，其中状态转移需要用到`等价转换`
 4. `[122. 买卖股票的最佳时机 II](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii/)`，重新思考这道题，这道题的难点是`状态定义`，理解`状态机`的思想
 4. `[516. 最长回文子序列](https://leetcode.cn/problems/longest-palindromic-subsequence/)`,重新思考这道题,此题的难点是`状态定义`，借鉴`区间DP的状态定义思想`
+
+## 11月26日 周日
+
+1. `[828. 统计子串中的唯一字符](https://leetcode.cn/problems/count-unique-characters-of-all-substrings-of-a-given-string/)`,力扣每日一题，由于某人被力扣周赛打破防啦！！！于是选择了Control C/V！！！
+
+### 第118场力扣双周赛复盘
+
+靠靠靠！！！靠靠靠！！！
+
+靠靠靠！！！靠靠靠！！！
+
+靠靠靠！！！靠靠靠！！！
+
+靠靠靠！！！靠靠靠！！！
+
+靠靠靠！！！靠靠靠！！！
+
+靠靠靠！！！靠靠靠！！！
+
+不复盘啦！！！
+
+### 第373场力扣周赛复盘
+
+靠靠靠！！！靠靠靠！！！
+
+靠靠靠！！！靠靠靠！！！
+
+靠靠靠！！！靠靠靠！！！
+
+靠靠靠！！！靠靠靠！！！
+
+靠靠靠！！！靠靠靠！！！
+
+靠靠靠！！！靠靠靠！！！
+
+不复盘啦！！！
