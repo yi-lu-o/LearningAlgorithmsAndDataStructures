@@ -201,9 +201,18 @@
 
 1. 日常力扣每日一题，详情略
 2. `两个子序列的最大点积 https://leetcode.cn/problems/max-dot-product-of-two-subsequences/`此题暂时没有解题思路，**因为菜**，但是值得花时间解决
-3. `https://leetcode.cn/problems/number-of-longest-increasing-subsequence/`此题暂时没有解题思路，**因为菜**，但是值得花时间解决
+3. `673. 最长递增子序列的个数`此题暂时没有解题思路，**因为菜**，但是值得花时间解决
 
 ### 为什么这三天没有详细记录呢？
 
 1. 心态崩了，破大防
 2. 临近期末，疲于奔命
+2. 各种杂七杂八的琐碎事务
+
+## 11月30日 周四
+
+1. `[1657. 确定两个字符串是否接近](https://leetcode.cn/problems/determine-if-two-strings-are-close/)`,力扣每日一题，Control C/V解决了这道题，~~关于菜鸡想白嫖10积分那些事~~
+2. `[673. 最长递增子序列的个数](https://leetcode.cn/problems/number-of-longest-increasing-subsequence/)`看了这道题之前交的代码，发现还得是**思维**
+3. `两个子序列的最大点积 https://leetcode.cn/problems/max-dot-product-of-two-subsequences/`参考题解解决了这道题
+4. `[1911. 最大子序列交替和](https://leetcode.cn/problems/maximum-alternating-subsequence-sum/)`此题暂时没有思路，**因为菜**，但这也是一道非常简洁，非常值得花时间思考的题。
+
