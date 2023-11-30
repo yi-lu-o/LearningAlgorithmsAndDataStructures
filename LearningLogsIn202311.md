@@ -196,3 +196,14 @@
 靠靠靠！！！靠靠靠！！！
 
 不复盘啦！！！
+
+## 11月27日-11月29日
+
+1. 日常力扣每日一题，详情略
+2. `两个子序列的最大点积 https://leetcode.cn/problems/max-dot-product-of-two-subsequences/`此题暂时没有解题思路，**因为菜**，但是值得花时间解决
+3. `https://leetcode.cn/problems/number-of-longest-increasing-subsequence/`此题暂时没有解题思路，**因为菜**，但是值得花时间解决
+
+### 为什么这三天没有详细记录呢？
+
+1. 心态崩了，破大防
+2. 临近期末，疲于奔命
