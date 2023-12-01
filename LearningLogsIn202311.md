@@ -215,4 +215,5 @@
 2. `[673. 最长递增子序列的个数](https://leetcode.cn/problems/number-of-longest-increasing-subsequence/)`看了这道题之前交的代码，发现还得是**思维**
 3. `两个子序列的最大点积 https://leetcode.cn/problems/max-dot-product-of-two-subsequences/`参考题解解决了这道题
 4. `[1911. 最大子序列交替和](https://leetcode.cn/problems/maximum-alternating-subsequence-sum/)`此题暂时没有思路，**因为菜**，但这也是一道非常简洁，非常值得花时间思考的题。
+4. `[2305. 公平分发饼干](https://leetcode.cn/problems/fair-distribution-of-cookies/)`,解决了这道之前暂时放下的题，虽然是用暴力解法
 
