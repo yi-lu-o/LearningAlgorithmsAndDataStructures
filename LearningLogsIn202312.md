@@ -4,6 +4,7 @@
 
 1. 12月1日 15：40-17：40近2h
 1. 12月2日 10：00-12：00近2h
+1. 12月2日 20：40-22：05近1.5h
 
 ## 12月1日 周五
 
@@ -16,3 +17,7 @@
 2. `[LCR 003. 比特位计数](https://leetcode.cn/problems/w3tCBm/)`,思路：`DP+位运算`
 3. `[1638. 统计只差一个字符的子串数目](https://leetcode.cn/problems/count-substrings-that-differ-by-one-character/)`，要学会不断拆分问题，往前推进呀！！！思路是正确的，但是在思考状态转移时无法往前推进！！！
 4. `[241. 为运算表达式设计优先级](https://leetcode.cn/problems/different-ways-to-add-parentheses/)`,优先想的应该是解决问题，而不是硬套模板，思路：`DFS暴搜或者区间DP`
+4. `[LCR 020. 回文子串](https://leetcode.cn/problems/a7VOhD/)`,回文子串的应用题，思路：`动态规划`
+4. `[1025. 除数博弈](https://leetcode.cn/problems/divisor-game/)`,一道看似复杂的问题，要学会复杂问题简单化！！！
+4. `[1140. 石子游戏 II](https://leetcode.cn/problems/stone-game-ii/)`,这道题没有思路，决定先看题解，思路：`从后往前推的动态规划`，算法确实很灵活，这是一项大学期间值得学习的能力
+4. `[1312. 让字符串成为回文串的最少插入次数](https://leetcode.cn/problems/minimum-insertion-steps-to-make-a-string-palindrome/)`,虽然标的是困难题，但是思路并不困难，思路：`区间DP`
