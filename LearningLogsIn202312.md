@@ -21,3 +21,13 @@
 4. `[1025. 除数博弈](https://leetcode.cn/problems/divisor-game/)`,一道看似复杂的问题，要学会复杂问题简单化！！！
 4. `[1140. 石子游戏 II](https://leetcode.cn/problems/stone-game-ii/)`,这道题没有思路，决定先看题解，思路：`从后往前推的动态规划`，算法确实很灵活，这是一项大学期间值得学习的能力
 4. `[1312. 让字符串成为回文串的最少插入次数](https://leetcode.cn/problems/minimum-insertion-steps-to-make-a-string-palindrome/)`,虽然标的是困难题，但是思路并不困难，思路：`区间DP`
+
+## 12月3日 周日
+
+1. `[1423. 可获得的最大点数](https://leetcode.cn/problems/maximum-points-you-can-obtain-from-cards/)`,又又又被大佬灵动简洁的思维秀翻啦！！！菜菜菜！！！思路：`枚举`或者`转化思维+滑动窗口`
+2. `[1911. 最大子序列交替和](https://leetcode.cn/problems/maximum-alternating-subsequence-sum/)`,一道题目意思非常简洁的题，但是**俺不会做呀！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！**思路：`状态机DP`,啊啊啊！！！菜菜菜！！！
+### 第374场力扣周赛复盘
+
+一定是天气的原因，绝对不是因为我菜！！！
+
+复盘完毕！！！Over ！！！Over ！！！
