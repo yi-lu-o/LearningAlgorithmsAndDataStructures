@@ -5,6 +5,8 @@
 1. 12月1日 15：40-17：40近2h
 1. 12月2日 10：00-12：00近2h
 1. 12月2日 20：40-22：05近1.5h
+1. 12月3日 10：30-12：00 近1.5h,参加第374场力扣周赛
+1. 12月3日 21：00-22：45 近105m
 
 ## 12月1日 周五
 
@@ -26,8 +28,61 @@
 
 1. `[1423. 可获得的最大点数](https://leetcode.cn/problems/maximum-points-you-can-obtain-from-cards/)`,又又又被大佬灵动简洁的思维秀翻啦！！！菜菜菜！！！思路：`枚举`或者`转化思维+滑动窗口`
 2. `[1911. 最大子序列交替和](https://leetcode.cn/problems/maximum-alternating-subsequence-sum/)`,一道题目意思非常简洁的题，但是**俺不会做呀！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！**思路：`状态机DP`,啊啊啊！！！菜菜菜！！！
+2. `[2606. 找到最大开销的子字符串](https://leetcode.cn/problems/find-the-substring-with-maximum-cost/)`，重新思考这道题
+2. `[2707. 字符串中的额外字符](https://leetcode.cn/problems/extra-characters-in-a-string/)`，重新思考这道题，这次思路与上次不同，上次是`动态规划`，这次是`记忆化搜索`，体会`手动档`和`自动档`的区别与联系
+2. `[2597. 美丽子集的数目](https://leetcode.cn/problems/the-number-of-beautiful-subsets/)`,在持续推进展开自己的思路，虽然最后的时间性能不够优秀，但在允许的时间范围内解决了这道题！！！思路：`DFS+哈希`
 ### 第374场力扣周赛复盘
 
 一定是天气的原因，绝对不是因为我菜！！！
 
 复盘完毕！！！Over ！！！Over ！！！
+
+## 12月4日 周一
+
+1. `[1038. 从二叉搜索树到更大和树](https://leetcode.cn/problems/binary-search-tree-to-greater-sum-tree/)`,control C/V 过了这道每日一题，毕竟每天的10积分还是要白嫖滴
+2. 临近考试，疲于奔命，下号，下号！！！
+
+## 12月5日 周二
+
+1. `[2477. 到达首都的最少油耗](https://leetcode.cn/problems/minimum-fuel-cost-to-report-to-the-capital/)`,control C/V过了每日一题，就是要白嫖每天的10积分！！！
+2. `[650. 只有两个键的键盘](https://leetcode.cn/problems/2-keys-keyboard/)`,很有意思的一道题，目前还没有思路，决定先不看题解，等有空的时候再继续思考这道题，下班，下班！！！
+
+## 12月6日-12月8日
+
+1. 力扣日常每日一题，通过Control C/V 白嫖力扣每日的10积分，详情略
+2. 为什么这三天的详情略呢？唉😔，当代大学生面对期末考试的疲于奔命
+
+## 12月9日 周六
+
+1. `[2048. 下一个更大的数值平衡数](https://leetcode.cn/problems/next-greater-numerically-balanced-number/)`，力扣每日一题，思路：`暴力枚举`或者`打表+二分`
+
+### 参加力扣第119场双周赛，赛后复盘
+
+事实证明，PVP终究还是自己与自己的较量。
+
+人外有人，山外有山，天外有天的世界也很壮丽精彩。
+
+会当凌绝顶，一览众山小是一种景色。
+
+山外有山，天外有天也是一种不错的景色。
+
+## 12月10日 周日
+
+1. `[100140. 关闭分部的可行集合数目](https://leetcode.cn/problems/number-of-possible-sets-of-closing-branches/)`,昨晚的力扣第119场双周赛的t4,这道题虽然最后没有做出来，但是留给自己的启发是：`关注数据范围，通过数据范围展开自己的思路与尝试`，重点是：**关注数据范围**，足矣
+
+### 参加力扣第375场周赛，赛后复盘
+
+本场表现中规中矩，同时发现不必在意力扣竞赛一时的上分、掉分，只要实力提上去了，可以在某一场周赛或者双周赛中上一百分以上，从而满足一下分奴的小小愿望，所以既然难改分奴本色，就专注于在某一场周赛中上大分吧，这或许需要一些运气、一些临场发挥、但更多的是实力
+
+## 12月11日 周一
+
+1. `[1631. 最小体力消耗路径](https://leetcode.cn/problems/path-with-minimum-effort/)`,力扣每日一题，一道`并查集`的好题,但是由于时间关系，决定先Control C/V
+
+## 12月12日 周二
+
+1. `[2454. 下一个更大元素 IV](https://leetcode.cn/problems/next-greater-element-iv/)`,力扣每日一题，一道很灵性的`单调栈应用题`,由于时间关系，看完题解后，选择了Control C/V
+
+## 12月13日 周三
+
+1. `[2697. 字典序最小回文串](https://leetcode.cn/problems/lexicographically-smallest-palindrome/)`,力扣每日一题，再次思考这道题，发现自己的思路变得简洁了，即使是简单题，也可以锻炼自己简洁的思维
+
