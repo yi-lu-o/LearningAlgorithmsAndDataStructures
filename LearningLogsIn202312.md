@@ -85,4 +85,13 @@
 ## 12月13日 周三
 
 1. `[2697. 字典序最小回文串](https://leetcode.cn/problems/lexicographically-smallest-palindrome/)`,力扣每日一题，再次思考这道题，发现自己的思路变得简洁了，即使是简单题，也可以锻炼自己简洁的思维
+1. `[1031. 两个非重叠子数组的最大和](https://leetcode.cn/problems/maximum-sum-of-two-non-overlapping-subarrays/)`,n=1000的数据量，自己用O(n^2)的时间性能解决了这道题，学习算法与数据结构最重要的培养分析问题的思维
+1. `[1526. 形成目标数组的子数组最少增加次数](https://leetcode.cn/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/)`,一道很有意思的题，噜啦啦！！！有手就行！！！思路：`线性DP`
 
+## 12月14日 周四
+
+1. `[2132. 用邮票贴满网格图](https://leetcode.cn/problems/stamping-the-grid/)`,力扣每日一题，读完题目后，暂时没有思路，由于时间关系，决定先Control C/V
+
+## 12月15日 周五
+
+1. `[2415. 反转二叉树的奇数层](https://leetcode.cn/problems/reverse-odd-levels-of-binary-tree/)`，力扣每日一题，思路：`BFS或DFS`，要进一步提高自己分析问题的能力呀！！！
