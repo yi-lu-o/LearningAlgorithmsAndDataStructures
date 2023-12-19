@@ -95,3 +95,29 @@
 ## 12月15日 周五
 
 1. `[2415. 反转二叉树的奇数层](https://leetcode.cn/problems/reverse-odd-levels-of-binary-tree/)`，力扣每日一题，思路：`BFS或DFS`，要进一步提高自己分析问题的能力呀！！！
+
+## 12月16日 周六
+
+1. `[2276. 统计区间中的整数数目](https://leetcode.cn/problems/count-integers-in-intervals/)`,力扣每日一题，思路：`线段树`，由于线段树不在近期的学习计划内，所以决定Control C/V
+2. `[1595. 连通两组点的最小成本](https://leetcode.cn/problems/minimum-cost-to-connect-two-groups-of-points/)`,一道自己觉得有思路的题目，但是已经wa了，没有发现bug所在，决定先放下这道题
+3. `[1799. N 次操作后的最大分数和](https://leetcode.cn/problems/maximize-score-after-n-operations/)`,由于数据量小，采用`DFS+记忆化搜索`的思路解决了这道题，学习算法重要的是提高自己分析问题的思维能力
+3. `[1595. 连通两组点的最小成本](https://leetcode.cn/problems/minimum-cost-to-connect-two-groups-of-points/)`,晚上再次思考这道题，尝试用暴力的思路解决问题，但是也发现了暴力思路的缺陷Bug所在，决定先不看题解，先把这道题存放在大脑中
+
+## 12月17日 周日
+
+1. 力扣日常每日一题，详情略
+
+### 参加力扣第376场周赛
+
+本场周赛的表现比较平常，在保持参加力扣周赛的平常心，同时在进行有针对性的训练和长期目标
+
+## 12月18日 周一
+
+1. 力扣日常每日一题，详情略
+
+## 12月19日 周二
+
+1. 力扣日常周赛每日一题，详情略
+2. `[2967. 使数组成为等数数组的最小代价](https://leetcode.cn/problems/minimum-cost-to-make-array-equalindromic/)`,第376场周赛t3,思路：`贪心+二分`，看完题解了解大致思路后，没有选择照着题解敲代码AC这道题，要有意识的培养自己算法学习过程中思维能力。
+3. `[1388. 3n 块披萨](https://leetcode.cn/problems/pizza-with-3n-slices/)`,读完题后，思考了一些时间仍然没有思路，尝试了枚举思路，发现行不通，决定先放下这道题
+
