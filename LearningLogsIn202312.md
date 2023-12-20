@@ -117,7 +117,13 @@
 
 ## 12月19日 周二
 
-1. 力扣日常周赛每日一题，详情略
+1. 力扣日常每日一题，详情略
 2. `[2967. 使数组成为等数数组的最小代价](https://leetcode.cn/problems/minimum-cost-to-make-array-equalindromic/)`,第376场周赛t3,思路：`贪心+二分`，看完题解了解大致思路后，没有选择照着题解敲代码AC这道题，要有意识的培养自己算法学习过程中思维能力。
 3. `[1388. 3n 块披萨](https://leetcode.cn/problems/pizza-with-3n-slices/)`,读完题后，思考了一些时间仍然没有思路，尝试了枚举思路，发现行不通，决定先放下这道题
 
+## 12月 20日 周三
+
+1. 力扣日常每日一题 ，详情略
+2. `[543. 二叉树的直径](https://leetcode.cn/problems/diameter-of-binary-tree/)`,重新思考这道题，被大佬的优雅代码惊艳到了
+3. `[124. 二叉树中的最大路径和](https://leetcode.cn/problems/binary-tree-maximum-path-sum/)`,解决了这道之前暂时放下的题，并没有想象中那么困难
+4. `[2246. 相邻字符不同的最长路径](https://leetcode.cn/problems/longest-path-with-different-adjacent-characters/)`，思路：`树形DP`，此题思路并不困难，只是有些细节困扰了自己很久，最后对着题解的代码找不同AC了这道题，菜菜菜！！！
