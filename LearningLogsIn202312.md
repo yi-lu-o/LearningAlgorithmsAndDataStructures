@@ -127,3 +127,9 @@
 2. `[543. 二叉树的直径](https://leetcode.cn/problems/diameter-of-binary-tree/)`,重新思考这道题，被大佬的优雅代码惊艳到了
 3. `[124. 二叉树中的最大路径和](https://leetcode.cn/problems/binary-tree-maximum-path-sum/)`,解决了这道之前暂时放下的题，并没有想象中那么困难
 4. `[2246. 相邻字符不同的最长路径](https://leetcode.cn/problems/longest-path-with-different-adjacent-characters/)`，思路：`树形DP`，此题思路并不困难，只是有些细节困扰了自己很久，最后对着题解的代码找不同AC了这道题，菜菜菜！！！
+
+## 12月21日 周四
+
+1. 力扣日常每日一题，详情略
+2. `[687. 最长同值路径](https://leetcode.cn/problems/longest-univalue-path/)`,思路：`树形DP`，看了题解后，对于题解代码有些地方还未理解，决定先放下这道题，~~其实就是因为菜~~
+3. `[337. 打家劫舍 III](https://leetcode.cn/problems/house-robber-iii/)`，这道题看了一下思路，发现自己并没有理解，决定先不急于AC，决定先放下这道题
