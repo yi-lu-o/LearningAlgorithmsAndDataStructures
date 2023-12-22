@@ -133,3 +133,7 @@
 1. 力扣日常每日一题，详情略
 2. `[687. 最长同值路径](https://leetcode.cn/problems/longest-univalue-path/)`,思路：`树形DP`，看了题解后，对于题解代码有些地方还未理解，决定先放下这道题，~~其实就是因为菜~~
 3. `[337. 打家劫舍 III](https://leetcode.cn/problems/house-robber-iii/)`，这道题看了一下思路，发现自己并没有理解，决定先不急于AC，决定先放下这道题
+
+## 12月22日 周五
+
+1. `[1671. 得到山形数组的最少删除次数](https://leetcode.cn/problems/minimum-number-of-removals-to-make-mountain-array/)`，力扣日常每日一题，思路：`DP+转化思维`，克服了自己的畏难心理，独立AC了这道题！！！嘿嘿嘿！！！
