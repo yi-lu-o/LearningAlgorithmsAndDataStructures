@@ -137,3 +137,24 @@
 ## 12月22日 周五
 
 1. `[1671. 得到山形数组的最少删除次数](https://leetcode.cn/problems/minimum-number-of-removals-to-make-mountain-array/)`，力扣日常每日一题，思路：`DP+转化思维`，克服了自己的畏难心理，独立AC了这道题！！！嘿嘿嘿！！！
+
+## 12月23日 周六
+
+1. `[1962. 移除石子使总数最小](https://leetcode.cn/problems/remove-stones-to-minimize-the-total/)`，力扣日常每日一题，思路：`堆(优先队列)`，噜啦啦！！！重拳出击！！！
+
+### 参加第120场力扣双周赛
+
+本场周赛的t4是一道递归题，虽然比赛的时候由于一些代码细节问题没有写出来~~菜菜菜~~，但是赛后找到了wa的原因，AC了这道题（要是早点发现Bug就好了嘞），菜菜菜！！！
+
+## 12月24日 周日
+
+1. `[1954. 收集足够苹果的最小花园周长](https://leetcode.cn/problems/minimum-garden-perimeter-to-collect-enough-apples/)`，力扣日常每日一题，思路：`数学推导`或`二分`，由于时间关系~~其实就是菜~~选择了Control C/V
+
+### 参加第377场力扣周赛
+
+这场周赛的t3是`最短路（Floyd)+DP`，决定把`最短路`列入近期的算法学习计划，啊啊啊！！！分奴太太太想上分啦！！！保持平常心，既然难改分奴本色，那就去争取`上大分`，不用纠结于某一场竞赛积分的上下浮动。
+
+## 12月25日 周一
+
+1. [1276. 不浪费原料的汉堡制作方案](https://leetcode.cn/problems/number-of-burgers-with-no-waste-of-ingredients/),力扣日常每日一题，思路：`二分`，拿下！！！拿下！！！
+
