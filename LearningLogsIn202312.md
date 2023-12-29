@@ -158,3 +158,22 @@
 
 1. [1276. 不浪费原料的汉堡制作方案](https://leetcode.cn/problems/number-of-burgers-with-no-waste-of-ingredients/),力扣日常每日一题，思路：`二分`，拿下！！！拿下！！！
 
+## 12月26日 周二
+
+1. [1349. 参加考试的最大学生数](https://leetcode.cn/problems/maximum-students-taking-exam/),力扣日常每日一题，首先尝试暴力DFS，然后，尝试记忆化搜索，最后尝试DP，看完题解后，发现思路是：`动态规划+状态压缩`，由于时间关系，~~其实就是菜~~，选择了Control C/V
+
+## 12月27日 周三
+
+1. [2660. 保龄球游戏的获胜者](https://leetcode.cn/problems/determine-the-winner-of-a-bowling-game/)，力扣日常每日一题，怎么这道题还能wa两发呀！！！菜菜菜！！！
+
+## 12月28日 周四
+
+1. [1334. 阈值距离内邻居最少的城市](https://leetcode.cn/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/),`最短路问题`，通过这道题，学习了`Floyd`算法
+2. [2642. 设计可以求最短路径的图类](https://leetcode.cn/problems/design-graph-with-shortest-path-calculator/),`最短路问题`，通过这道题系统学习了`Dijkstra和Floyd算法`，了解了两个算法的应用场景和性能
+3. [2976. 转换字符串的最小成本 I](https://leetcode.cn/problems/minimum-cost-to-convert-string-i/),学习完最短路后，解决了这道题，思路：`最短路+DP`
+3. [2735. 收集巧克力](https://leetcode.cn/problems/collecting-chocolates/)，力扣日常每日一题，很有启迪意义的一道题，本来以为是贪心，后来发现是`枚举`，学习算法和数据结构的过程中要有意识的提高自己的思维水平，培养分析问题的能力
+3. [2306. 公司命名](https://leetcode.cn/problems/naming-a-company/)，计划通过这道题学习状态压缩，然而........啊啊啊啊啊啊！！！！！！看了题解还是没看懂捏，由于时间关系(~~其实就是菜~~)，决定先放下这道题
+
+## 12月29日 周五
+
+1. [2706. 购买两块巧克力](https://leetcode.cn/problems/buy-two-chocolates/)，力扣日常每日一题，详情略
