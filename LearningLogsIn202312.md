@@ -177,3 +177,7 @@
 ## 12月29日 周五
 
 1. [2706. 购买两块巧克力](https://leetcode.cn/problems/buy-two-chocolates/)，力扣日常每日一题，详情略
+
+## 12月30日 周六
+
+1. [1185. 一周中的第几天](https://leetcode.cn/problems/day-of-the-week/),通过百度`文心一言`，调用Java相关API解决了这道题
