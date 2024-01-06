@@ -23,3 +23,8 @@
 ## 1月5日 周五
 
 1. [1944. 队列中可以看到的人数](https://leetcode.cn/problems/number-of-visible-people-in-a-queue/),力扣日常每日一题，思路：`单调栈`，又又又是Control C/V的一天
+
+## 1月6日 周六
+
+1. [2807. 在链表中插入最大公约数](https://leetcode.cn/problems/insert-greatest-common-divisors-in-linked-list/),力扣日常每日一题，之前做过的一道题，思路：`递归式遍历`,噜啦啦！！！重拳出击！！！
+
