@@ -43,3 +43,13 @@
 ## 1月8日 周一
 
 1. [447. 回旋镖的数量](https://leetcode.cn/problems/number-of-boomerangs/),力扣日常每日一题，思路：`枚举+哈希+组合数学`，关键思路是`枚举`，独立解决了这道题，拿下，拿下！！！
+
+## 1月9日 周二
+
+1. 力扣日常每日一题，详情略
+
+## 1月10日 周三
+
+1. [2696. 删除子串后的字符串最小长度](https://leetcode.cn/problems/minimum-string-length-after-removing-substrings/)，力扣日常每日一题，思路：`栈`
+
+   
