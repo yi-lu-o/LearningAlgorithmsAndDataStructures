@@ -52,4 +52,20 @@
 
 1. [2696. 删除子串后的字符串最小长度](https://leetcode.cn/problems/minimum-string-length-after-removing-substrings/)，力扣日常每日一题，思路：`栈`
 
-   
+## 1月11日 周四
+
+1. [2645. 构造有效字符串的最少插入数](https://leetcode.cn/problems/minimum-additions-to-make-valid-string/),力扣日常每日一题，我的思路：`栈`，题解区思路：`贪心`，要慢慢形成自己的思路，同时，多看别人的思路与想法
+
+2. 看灵茶山艾府的题单推荐：[分享丨从周赛中学算法 - 2023 下半年周赛题目总结](https://leetcode.cn/circle/discuss/lUu0KB/)
+
+3. [2999. 统计强大整数的数目](https://leetcode.cn/problems/count-the-number-of-powerful-integers/),第121场双周赛t4,思路：`数位DP`,要开始收集整理一些代码模板
+
+4. [3003. 执行操作后的最大分割数量](https://leetcode.cn/problems/maximize-the-number-of-partitions-after-operations/)，第379场周赛t4,思路：`DP`或`枚举+二分`
+
+## 1月12日 周五
+
+1. [2085. 统计出现过一次的公共字符串](https://leetcode.cn/problems/count-common-words-with-one-occurrence/),力扣日常每日一题，思路：`哈希`
+1. [1653. 使字符串平衡的最少删除次数](https://leetcode.cn/problems/minimum-deletions-to-make-string-balanced/),思路：`动态规划`，重拳出击！！！
+1. [2088. 统计农场中肥沃金字塔的数目](https://leetcode.cn/problems/count-fertile-pyramids-in-a-land/),思路：`动态规划`，又又又被题解区大佬的优雅思路秀翻啦！！！还得是思维！！！
+1. [730. 统计不同回文子序列](https://leetcode.cn/problems/count-different-palindromic-subsequences/),思路：`区间DP`，不知道如何状态转移，决定先放下这道题！！！菜菜菜！！！
+
