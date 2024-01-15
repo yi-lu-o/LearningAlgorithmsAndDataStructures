@@ -69,3 +69,18 @@
 1. [2088. 统计农场中肥沃金字塔的数目](https://leetcode.cn/problems/count-fertile-pyramids-in-a-land/),思路：`动态规划`，又又又被题解区大佬的优雅思路秀翻啦！！！还得是思维！！！
 1. [730. 统计不同回文子序列](https://leetcode.cn/problems/count-different-palindromic-subsequences/),思路：`区间DP`，不知道如何状态转移，决定先放下这道题！！！菜菜菜！！！
 
+## 1月13日 周六
+
+1. [2182. 构造限制重复的字符串](https://leetcode.cn/problems/construct-string-with-repeat-limit/),题解区思路：`贪心`或者`双指针`，我的思路：`贪心`但是非常不优雅，非常屎山，最后还跑不出正确结果，由于时间问题，决定先Control C/V 解决这道题，菜菜菜！！！
+
+## 1月14日 周日
+
+1. [83. 删除排序链表中的重复元素](https://leetcode.cn/problems/remove-duplicates-from-sorted-list/),力扣日常每日一题，思路：`递归`
+
+### 参加力扣第380场周赛
+
+寒假回家后的第一场周赛，t3思路：`数位DP`，t4思路：`二分 + KMP` 
+
+## 1月15日 周一
+
+1. [82. 删除排序链表中的重复元素 II](https://leetcode.cn/problems/remove-duplicates-from-sorted-list-ii/),思路：`链表虚拟头节点+递归/迭代`，由于时间问题，选择了Control C/V~~其实就是菜~~
