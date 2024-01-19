@@ -84,3 +84,20 @@
 ## 1月15日 周一
 
 1. [82. 删除排序链表中的重复元素 II](https://leetcode.cn/problems/remove-duplicates-from-sorted-list-ii/),思路：`链表虚拟头节点+递归/迭代`，由于时间问题，选择了Control C/V~~其实就是菜~~
+
+## 1月16日 周二
+
+1. [2719. 统计整数数目](https://leetcode.cn/problems/count-of-integers/),思路：`数位DP`，由于时间原因，选择了Control C/V~~其实就是菜~~
+
+## 1月17日 周三
+
+1. [2744. 最大字符串配对数目](https://leetcode.cn/problems/find-maximum-number-of-string-pairs/)，力扣日常每日一题，重拳出击！！！
+
+## 1月18日 周四
+
+1. [2171. 拿出最少数目的魔法豆](https://leetcode.cn/problems/removing-minimum-number-of-magic-beans/),力扣日常每日一题，思路：`前缀和 + 二分`，同时决定在写代码时遵守基本的代码规范
+
+## 1月19日 周五
+
+1. [2809. 使数组和小于等于 x 的最少时间](https://leetcode.cn/problems/minimum-time-to-make-array-sum-at-most-x/),力扣日常每日一题，思路：`数学 + 思维 + 01背包`，由于时间问题~~其实就是菜~~，选择了Control C/V
+2. 
