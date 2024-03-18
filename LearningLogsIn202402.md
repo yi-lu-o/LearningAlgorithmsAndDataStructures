@@ -81,3 +81,8 @@
 
 1. [3047. 求交集区域内的最大正方形面积](https://leetcode.cn/problems/find-the-largest-area-of-square-inside-two-rectangles/)，用python写屎山，结果n^2的复杂度TLE了，要注意代码优化。
 2. [3041. 修改数组后最大化数组中的连续元素数目](https://leetcode.cn/problems/maximize-consecutive-elements-in-an-array-after-modification/),第124场 双周赛t4,思路 ：`排序 + 子序列DP`,又又又被大佬的优雅思路秀翻啦！！！
+
+## 2月27日-29日
+
+1. 力扣日常每日一题，详情略
+2. 原因：**破大防**
